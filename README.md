@@ -14,7 +14,7 @@ Lazy Rider wants to know which train door to board to alight near an escalator a
 ## To-do
 - Continue the tutorial.
 - Ask SMRT, SBS Transit or LTA to give us data on platform layouts or ask support@sgtrains.com. Worse case is crowdsource.
--- We can work on hardcoded info yet.
+- We can work on hardcoded info first, i.e. just do a limited selection of stations, like stations between Bishan to Yishun.
 - Probably host the server on firebase
 - Is a DB for the station info really needed? Or can we just hardcode it into some file.
 - Have a Wiki to put mockups.
